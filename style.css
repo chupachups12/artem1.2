@@ -1,0 +1,156 @@
+body {
+    font-family: sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(white,green);
+    color: white;
+    margin: 0;
+}
+
+header {
+    
+}
+
+.button {
+    
+}
+
+nav {
+   display: flex;
+   justify-content: space-between;
+   margin: 10px;
+
+}
+
+ nav a{
+    color:whitesmoke;
+    font-weight: bolder;
+    text-decoration: none;
+    border: 7px solid black;
+    background-color: black;
+    padding: 15px;
+   
+
+}
+
+h1 {
+text-align:center;
+font-size: 80px;
+color:green;
+text-shadow: 7px 6px 8px black;
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+.catalog{
+    display:flex;
+    justify-content: space-between;
+}
+ img {
+    height: 150px;
+    width: 120px;
+}
+.nout{
+    margin-top: 25px;
+    display:flex;
+    justify-content: space-between;
+}
+.ps{
+   margin-top: 25px;
+    display:flex;
+    justify-content: space-between; 
+}
+.inshe{
+  margin-top: 25px;
+    display:flex;
+    justify-content: space-between;  
+}
+nav a:hover{
+    color:black;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px 5px 3px white;
+}
+main h1{
+    text-align: center;
+    font-size: 35px;
+    text-shadow: 3px 4px 5px grey;
+    color:black;
+}
+button{
+    font-size: 25px;
+    padding:25px;
+    font-weight: bolder;
+}
+button:hover{
+    background-color: green;
+    color: whitesmoke;
+}
+.about {
+    text-align: center;
+    font-size: 25px;
+    background-image: url("https://images.prom.ua/4027471571_w1280_h640_igrovoj-kompyuter-s.jpg");
+    background-size:cover;
+}
+.pr{
+     text-align: center;
+    font-size: 40px;
+    text-shadow: 3px 4px 5px grey;
+    color:whitesmoke;
+}
+article img{
+    width: 150px;
+    height:200px ;
+}
+article img:hover{
+    transform:scale(2.5);
+    transition: 2s;
+}
+.ac{
+    width: 100%;
+    height: 450px;
+}
+.fad{
+    width: 60px;
+    height: 60px;
+}
+.gad{
+    width: 60px;
+    height: 60px;
+}
+.hah{
+    width: 60px;
+    height: 60px;
+}
+.dad{
+    width: 60px;
+    height: 50px;
+}
+footer img:hover{
+    transform: scale(1.2);
+}
